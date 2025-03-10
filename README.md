@@ -4,7 +4,8 @@ Get Employees:  http://localhost:8080/myapp/api/employee
 Add Employee : http://localhost:8080/myapp/api/addemployee
 ![image](https://github.com/user-attachments/assets/7a737425-f7cb-4da7-ad32-b517e3381f5f)
 
-Post Order : http://localhost:8080/myapp/api/orders
+Post Order : http://localhost:8080/myapp/api/orders <img width="845" alt="Screenshot 2025-03-09 at 8 11 08 PM" src="https://github.com/user-attachments/assets/6bef0c04-cf7b-45f5-94e2-bfc91dabb823" />
+
 
 Kafka Installation steps :
 ===============================
